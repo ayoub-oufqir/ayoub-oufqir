@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayoub-oufqir
 - 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning Spring Boot
-- 💞️ I’m looking to collaborate on React/spring projects
+- 💞️ I’m looking to collaborate on React/Node.js projects
 - 📫 Reach Out to me via:
 -  discord: Shinigami#5826
 -  twitter: @ayouboufqir
