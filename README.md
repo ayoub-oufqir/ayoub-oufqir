@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayoub-oufqir
 - 👀 I’m interested in software engineering and cloud computing
-- 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on Java/React projects
+- 🌱 I’m 3x AWS certified [View on Credly](https://www.credly.com/users/ayoub-oufqir/badges#credly)
+- 💞️ I’m looking to collaborate on Java/React/AWS projects
 - 📫 Reach Out to me via:
 email: ayoub.oufqir1@gmail.com
 
